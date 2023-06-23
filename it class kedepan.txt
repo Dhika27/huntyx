@@ -1,3 +1,5 @@
 huntyx HMPI
 - belajar
-- bermain
+  * design
+- php
+- python
